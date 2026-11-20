@@ -1,0 +1,188 @@
+[
+  {
+    "id": "1",
+    "term": "IP Address",
+    "definition": "Alamat unik perangkat dalam jaringan komputer.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "2",
+    "term": "DNS",
+    "definition": "Sistem yang menerjemahkan nama domain menjadi alamat IP.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "3",
+    "term": "Router",
+    "definition": "Perangkat yang meneruskan paket data antar jaringan.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "4",
+    "term": "Bandwidth",
+    "definition": "Kapasitas maksimum data yang dapat dikirim per detik.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "5",
+    "term": "Gateway",
+    "definition": "Titik penghubung antara dua jaringan yang berbeda.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "6",
+    "term": "Subnet",
+    "definition": "Pembagian jaringan besar menjadi jaringan yang lebih kecil.",
+    "category": "Jaringan"
+  },
+  {
+    "id": "7",
+    "term": "Variabel",
+    "definition": "Tempat penyimpanan nilai di memori yang diberi nama.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "8",
+    "term": "Fungsi",
+    "definition": "Blok kode yang dapat dipanggil berulang kali.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "9",
+    "term": "Array",
+    "definition": "Kumpulan nilai berurutan yang diakses lewat indeks.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "10",
+    "term": "Looping",
+    "definition": "Perulangan eksekusi kode selama kondisi terpenuhi.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "11",
+    "term": "Algoritma",
+    "definition": "Langkah-langkah terurut untuk menyelesaikan suatu masalah.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "12",
+    "term": "Compiler",
+    "definition": "Penerjemah kode sumber menjadi kode mesin.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "13",
+    "term": "Debugging",
+    "definition": "Proses mencari dan memperbaiki kesalahan pada program.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "14",
+    "term": "Hook",
+    "definition": "Fungsi React untuk memakai state dan fitur lain di komponen.",
+    "category": "Pemrograman"
+  },
+  {
+    "id": "15",
+    "term": "CPU",
+    "definition": "Otak komputer yang memproses instruksi program.",
+    "category": "Hardware"
+  },
+  {
+    "id": "16",
+    "term": "RAM",
+    "definition": "Memori sementara yang menyimpan data yang sedang dipakai.",
+    "category": "Hardware"
+  },
+  {
+    "id": "17",
+    "term": "SSD",
+    "definition": "Penyimpanan data berbasis chip tanpa bagian yang bergerak.",
+    "category": "Hardware"
+  },
+  {
+    "id": "18",
+    "term": "GPU",
+    "definition": "Prosesor khusus untuk mengolah grafis dan gambar.",
+    "category": "Hardware"
+  },
+  {
+    "id": "19",
+    "term": "Motherboard",
+    "definition": "Papan utama yang menghubungkan seluruh komponen komputer.",
+    "category": "Hardware"
+  },
+  {
+    "id": "20",
+    "term": "Firewall",
+    "definition": "Penyaring lalu lintas jaringan berdasarkan aturan keamanan.",
+    "category": "Keamanan"
+  },
+  {
+    "id": "21",
+    "term": "Enkripsi",
+    "definition": "Pengacakan data agar hanya bisa dibaca pihak berwenang.",
+    "category": "Keamanan"
+  },
+  {
+    "id": "22",
+    "term": "Phishing",
+    "definition": "Penipuan yang menyamar sebagai pihak tepercaya untuk mencuri data.",
+    "category": "Keamanan"
+  },
+  {
+    "id": "23",
+    "term": "Malware",
+    "definition": "Perangkat lunak berbahaya yang merusak atau mencuri data.",
+    "category": "Keamanan"
+  },
+  {
+    "id": "24",
+    "term": "HTML",
+    "definition": "Bahasa markup untuk menyusun struktur halaman web.",
+    "category": "Web"
+  },
+  {
+    "id": "25",
+    "term": "CSS",
+    "definition": "Bahasa untuk mengatur tampilan dan gaya halaman web.",
+    "category": "Web"
+  },
+  {
+    "id": "26",
+    "term": "API",
+    "definition": "Antarmuka yang memungkinkan dua aplikasi saling bertukar data.",
+    "category": "Web"
+  },
+  {
+    "id": "27",
+    "term": "HTTP",
+    "definition": "Protokol komunikasi antara browser dan server web.",
+    "category": "Web"
+  },
+  {
+    "id": "28",
+    "term": "SQL",
+    "definition": "Bahasa untuk mengelola dan mengambil data di basis data.",
+    "category": "Basis Data"
+  },
+  {
+    "id": "29",
+    "term": "Primary Key",
+    "definition": "Kolom yang mengidentifikasi setiap baris secara unik.",
+    "category": "Basis Data"
+  },
+  {
+    "id": "30",
+    "term": "Query",
+    "definition": "Perintah untuk meminta atau mengubah data di basis data.",
+    "category": "Basis Data"
+  },
+  {
+    "id": "31",
+    "term": "Cloud Computing",
+    "definition": "Layanan komputasi dan penyimpanan yang diakses lewat internet.",
+    "category": "Jaringan"
+  }
+]
